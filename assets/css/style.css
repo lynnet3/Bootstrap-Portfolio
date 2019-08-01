@@ -130,6 +130,11 @@ h1 {
     background: #ffffff;
     border: 1px solid #dddddd;
   }
+  .col-md-10{
+    float: left;
+    position: relative;
+    right: 10px
+  }
   
   /* portfolio page */
   
@@ -211,3 +216,4 @@ h1 {
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
+  }
